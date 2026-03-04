@@ -1,3 +1,6 @@
 [submodule "odin-secp256k1"]
 	path = odin-secp256k1
 	url = git@github.com:VANADAIN/odin-secp256k1.git
+[submodule "odin-rlp"]
+	path = odin-rlp
+	url = git@github.com:VANADAIN/odin-rlp.git
