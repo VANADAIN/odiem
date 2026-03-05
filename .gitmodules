@@ -4,3 +4,6 @@
 [submodule "odin-rlp"]
 	path = odin-rlp
 	url = git@github.com:VANADAIN/odin-rlp.git
+[submodule "odin-abi"]
+	path = odin-abi
+	url = git@github.com:VANADAIN/odin-abi.git
