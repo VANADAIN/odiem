@@ -10,3 +10,6 @@
 [submodule "odin-websocket"]
 	path = odin-websocket
 	url = git@github.com:VANADAIN/odin-websocket.git
+[submodule "odin-jsonrpc"]
+	path = odin-jsonrpc
+	url = git@github.com:VANADAIN/odin-jsonrpc.git
