@@ -5,6 +5,9 @@
 *.out
 *.pdb
 
+# Example binaries
+examples/transfers
+
 # Secrets
 .env
 
