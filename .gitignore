@@ -5,6 +5,9 @@
 *.out
 *.pdb
 
+# Secrets
+.env
+
 # OS files
 .DS_Store
 Thumbs.db
